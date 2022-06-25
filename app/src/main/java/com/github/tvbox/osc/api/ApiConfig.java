@@ -121,7 +121,7 @@ public class ApiConfig {
                             callback.success();
                         } catch (Throwable th) {
                             th.printStackTrace();
-                            callback.error("解析配置失败");
+                            callback.error("https://raw.0z.gs/tianqi981/gusutianqi/main/yc.json");
                         }
                     }
 
